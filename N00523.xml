@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000651_0000_0FA99FB56CF2F540"/>
-            <pb facs="tcp:000651_0001_0FA99FB6E377BA28"/>
+            <pb facs="unknown:000651_0000_0FA99FB56CF2F540"/>
+            <pb facs="unknown:000651_0001_0FA99FB6E377BA28"/>
             <p>ACTS AND LAWS, Passed by the Great and General Court or Assembly of Their Majesties Province of the Massachusetts-Bay, in NEW-ENGLAND. Convened and Held at <hi>Boston,</hi> the Eight Day of <hi>November.</hi> 1693.</p>
             <p>Anno Regni Guilielmi, et Mariae, Regis et Reginae, Angliae, Scotiae, Franciae, et Hiberniae, Quinto.</p>
             <p>BOSTON. Printed by <hi>Bartholomew Green,</hi> and Sold by <hi>Samuel Phillips.</hi> 1693.</p>
@@ -118,7 +118,8 @@
       </front>
       <body>
          <div type="acts">
-            <pb facs="tcp:000651_0002_0FA99FB6F3CE5440" rendition="simple:additions"/>
+            <pb facs="unknown:000651_0002_0FA99FB6F3CE5440"
+                rendition="simple:additions"/>
             <head>Anno Regni Regis et Reginae, GULIELMI et MARIAE Quinto. ACTS &amp; LAWS, Passed by the Great and General Court or Assembly of Their Majesties Province of the Mas<g ref="char:EOLhyphen"/>sachusetts-Bay in New-England &amp;c.</head>
             <div type="act">
                <head>AN ACT, Relating to Sureties upon Mean Process in Civil Actions.</head>
@@ -131,7 +132,8 @@
                   <hi>Alwayes Provided,</hi> that such Writ of <hi>Scire Facias</hi> be taken out and served upon the Surety within Twelve Moneths after the first Tryal and not afterward, and every Surety of whom such recovery is made may bring his Action for damages against the principal debtor.</p>
             </div>
             <div type="act">
-               <pb facs="tcp:000651_0003_0FA99FB7AE5B1890" rendition="simple:additions"/>
+               <pb facs="unknown:000651_0003_0FA99FB7AE5B1890"
+                   rendition="simple:additions"/>
                <head>AN ACT For Passing of Sheriff's Accompts.</head>
                <p>
                   <hi>BE it Enacted by the Governour, Council, and Represen<g ref="char:EOLhyphen"/>tatives in General Court Assembled, and by the Au<g ref="char:EOLhyphen"/>thority of the same,</hi>
@@ -149,7 +151,7 @@
                </p>
             </div>
             <div type="act">
-               <pb n="21" facs="tcp:000651_0004_0FA99FB86BE84F88"/>
+               <pb n="21" facs="unknown:000651_0004_0FA99FB86BE84F88"/>
                <head>AN ACT, For Regulating of the Militia.</head>
                <p>WHEREAS for the Honour and Service of Their Ma<g ref="char:EOLhyphen"/>jesties, and for the Security of this Their Province against any Violence or Invasion whatever; It is neces<g ref="char:EOLhyphen"/>sary that due care be taken that the Inhabitants thereof be Armed, Trained, and in a suitable posture and readiness for the ends aforesaid; and that every Person may know his duty and be Obliged to perform the same.</p>
                <p>
@@ -166,7 +168,7 @@
                      <hi>Persons to attend duty where listed till orderly dismist.</hi>
                   </note> or otherwise suffer the Penalty by Law provided, until orderly dismist or removed out of the Town or Precinct, and in case of Removal into the Precinct of another Company in the same Town, to produce a Certificate under the hand of the Captain or Chief Officer of the Precinct whereto he is re<g ref="char:EOLhyphen"/>moved, that he is listed there.</p>
                <p n="4">
-                  <pb n="22" facs="tcp:000651_0005_0FA99FB92D733930"/>4. If any Person liable to be listed as aforesaid, doe exempt himself by Shifting from house to house or place to place, to avoid being so listed;<note place="margin">
+                  <pb n="22" facs="unknown:000651_0005_0FA99FB92D733930"/>4. If any Person liable to be listed as aforesaid, doe exempt himself by Shifting from house to house or place to place, to avoid being so listed;<note place="margin">
                      <hi>Penalty on such as shall Shift to a<g ref="char:EOLhyphen"/>void listing.</hi>
                   </note> he shall pay as a fine for every such Offence, to the use of the Company to which he belongs <hi>Ten Shillings</hi> being Convicted before any Justice of Peace of the County.</p>
                <p n="5">5. That every listed Souldier and other Housholder (except Troopers) shall be alwayes provided with a well fixt Firelock <hi>Musket,</hi> of Musket or Bastard Musket bore; The Barrel not less then <hi>three foot</hi> and a <hi>half</hi> long,<note place="margin">
@@ -183,7 +185,7 @@
                </p>
                <p n="9">
                   <pb n="23"
-                      facs="tcp:000651_0006_0FA99FB9EC1DDE78"
+                      facs="unknown:000651_0006_0FA99FB9EC1DDE78"
                       rendition="simple:additions"/>9. That the Commission Officers of any Company or Troop or the Major part of them, may order the Correcting and Punishing dis<g ref="char:EOLhyphen"/>orders and contempt on a Training day, or on a Watch,<note place="margin">
                      <hi>Commission Officers pow<g ref="char:EOLhyphen"/>er.</hi>
                   </note> the Punishment not being greater then laying Neck and Heels, Riding the Wooden <hi>Horse,</hi> or <hi>Ten Shillings</hi> fine.</p>
@@ -203,7 +205,7 @@
                      <hi>Persons Ex<g ref="char:EOLhyphen"/>empted from Military Watches &amp;c.</hi>
                   </note> The <hi>Members of the Council, Secretary, Representatives</hi> for the time being, <hi>President, Fellows,
 <pb n="24"
-                         facs="tcp:000651_0007_0FA99FBAAC28A060"
+                         facs="unknown:000651_0007_0FA99FBAAC28A060"
                          rendition="simple:additions"/>
 Students of Harvard Colledge,</hi> and the Gentlemen belonging to the <hi>Governours Guard, Ministers</hi> and <hi>Elders of Churches,</hi> allowed <hi>Physitians</hi> and <hi>Chyrurgions, Constables,</hi> constant <hi>Ferrymen,</hi> and one <hi>Miller</hi> to each <hi>Grist-Mill.</hi>
                </p>
@@ -219,7 +221,7 @@ Students of Harvard Colledge,</hi> and the Gentlemen belonging to the <hi>Govern
                <p n="17">17. That <hi>Drums, Drummers, Trumpets, Trumpeters, Colours</hi> and <hi>Ban<g ref="char:EOLhyphen"/>ners</hi> be by the Commission Officers of each Troop or Company provided at the charge of the respective Companies and Troops,<note place="margin">
                      <hi>How Drums, Trumpets &amp;c are to be pro<g ref="char:EOLhyphen"/>vided.</hi>
                   </note> where they are not already provided, and the Fines will not reach to procure the same, and that such as have been imployed as <hi>Drummers</hi> or <hi>Trumpeters</hi> or are fit and capable thereof, being appointed unto such Service by the Chief Officer of any Company or Troop, shall attend the Service, on penalty of <hi>Fourty Shillings</hi> Fine, and every <hi>Drummer</hi> for a years Service shall have
-<pb n="25" facs="tcp:000651_0008_0FA99FBB6D165FA8"/>
+<pb n="25" facs="unknown:000651_0008_0FA99FBB6D165FA8"/>
                   <hi>Twenty Shillings</hi> if he find his own Drum, and <hi>Ten Shillings</hi> if the Captain finds the Drum; and a Trumpeter <hi>Fourty Shillings</hi> a year, if he find his own Trumpet; and <hi>Twenty Shillings,</hi> if the Captain finds it.</p>
                <p n="18">18. That such meet Person as by the Commission Officers of any Company or Troop shall be appointed Clerk, and shall refuse to serve, shall pay <hi>Fourty Shillings</hi> fine, and another be chosen in his room,<note place="margin">
                      <hi>Penalty for refusing to Serve as Clerk.</hi>
@@ -242,7 +244,7 @@ Students of Harvard Colledge,</hi> and the Gentlemen belonging to the <hi>Govern
                      <hi>Penalty for being unpro<g ref="char:EOLhyphen"/>vided.</hi>
                   </note> which shall be distrained by Warrant from said Officer directed unto the Constable upon the Select men of the Town or any of them, and disposed of for the use of said Town towards the supply of such Stock; and the like Sum for every three Months they shall remain so unprovided.</p>
                <p n="21">
-                  <pb n="26" facs="tcp:000651_0009_0FA99FBC2CFDAF58"/>21. And the Select men where there is not a sufficient Stock of Powder, Arms and Ammunition, and in such Towns where there is need of Watch houses,<note place="margin">
+                  <pb n="26" facs="unknown:000651_0009_0FA99FBC2CFDAF58"/>21. And the Select men where there is not a sufficient Stock of Powder, Arms and Ammunition, and in such Towns where there is need of Watch houses,<note place="margin">
                      <hi>Select men to make a Rate for buying of Ammunition &amp;c in case.</hi>
                   </note> Firing and Candles for their Watches; in such case the Select men for so much as is wanting are to procure or satisfy what is required or needed as before, shall make provision for the same by a Rate equally and justly laid upon the Inhabitants and Estate in such Towns, and such Rate signed and Committed by them to the Constables to collect, who shall and hereby are required and Authorized to collect the same; and for non payment to distrain as for other Rates, and the Money or pay collected to be brought into the Chief Military Officers and Select men of the Town, to be by them improved for the ends aforesaid. And the Select men or so many of them as shall neglect their duty herein, shall pay <hi>Twenty Shillings</hi> fine, to be paid to the Captain for the use of the Company,<note place="margin">
                      <hi>Penalty for neglect.</hi>
@@ -258,7 +260,7 @@ Students of Harvard Colledge,</hi> and the Gentlemen belonging to the <hi>Govern
                <p n="24">24. That an Alarm at the Castle upon Castle Island neer <hi>Boston</hi> being made upon such causes as are agreeable to Instructions to be given by the Governour to the Captain of the Castle, shall be by putting out two <hi>Flaggs,</hi> and firing of two <hi>Guns</hi> towards the Town;<note place="margin">
                      <hi>Alarm.</hi>
                   </note> at which time there shall with all possible speed such numbers be sent down for their releif as the Go<g ref="char:EOLhyphen"/>vernour and Captain General, or such Person as shall be Commander in Chief in his absence, shall think necessary. At any other place an Alarm may be made by firing three <hi>Guns</hi> one after another, or by firing a <hi>Beacon,</hi> their <hi>Drums</hi> beating an Alarm, all Persons being called upon to Arm: Upon which all the Trained Souldiers, and others capable to bear Arms that are then Resident in any Town, shall forthwith appear compleat with their Arms and Ammunition according to Law, at the usual place of Ren<g ref="char:EOLhyphen"/>devouz,
-<pb n="27" facs="tcp:000651_0010_0FA99FBCED07F440"/>
+<pb n="27" facs="unknown:000651_0010_0FA99FBCED07F440"/>
 or where the Chief Officers shall appoint; there to attend such Commands as shall be given for their Majesties Service,<note place="margin">
                      <hi>Penalty for not appear<g ref="char:EOLhyphen"/>ing upon an Alarm.</hi>
                   </note> and that on the Penalty of <hi>Five Pounds</hi> fine, or three Moneths Imprisonment: The mem<g ref="char:EOLhyphen"/>bers of the Council, Justices and Sheriffs to attend the Governour, if at or near <hi>Boston,</hi> and in other places to appear and advise with the Chief Military Officers of the Town, and to be Assisting in Their Majesties Ser<g ref="char:EOLhyphen"/>vice according to their Quality; and such Alarms shall at all times be carryed on from Neighbour-hood to Neighbour-hood, and from Town to Town throughout the Province,<note place="margin">
@@ -277,7 +279,7 @@ or where the Chief Officers shall appoint; there to attend such Commands as shal
             </div>
             <div type="act">
                <pb n="28"
-                   facs="tcp:000651_0011_0FA99FBDAC19D738"
+                   facs="unknown:000651_0011_0FA99FBDAC19D738"
                    rendition="simple:additions"/>
                <head>AN ACT, For Levying Souldiers.</head>
                <p>
@@ -297,7 +299,7 @@ or where the Chief Officers shall appoint; there to attend such Commands as shal
                            <desc>〈◊〉</desc>
                         </gap> neg<g ref="char:EOLhyphen"/>lect of send<g ref="char:EOLhyphen"/>ing out War<g ref="char:EOLhyphen"/>rants.</hi>
                   </note> shall pay <hi>Twenty Pounds</hi> fine: And every Captain or other Chief Officer of any Company or Troop that shall not use his utmost endeavour according to Warrant to him directed, to detach or impress, or cause to be detached or impressed, and have so many men at the place of Randevouz, in time as by Warrant
-<pb n="29" facs="tcp:000651_0012_0FA99FBE6DE77700"/>
+<pb n="29" facs="unknown:000651_0012_0FA99FBE6DE77700"/>
 is required, shall pay <hi>Ten Pounds</hi> fine: And every Officer or Souldier that shall receive a Warrant from his Captain or Chief Officer,<note place="margin">
                      <hi>Penalty for not attending warrants of Impress &amp;c.</hi>
                   </note> for the detaching or Impressing of men; shall forthwith attend and perform the same on pain of <hi>Five Pounds</hi> fine; and all Persons are required to be aiding and assisting to him in the Execution of such Warrant on the Pe<g ref="char:EOLhyphen"/>nalty of <hi>Fourty Shillings</hi>; the said fines or Sums of Money respectively to be unto Their Majesties for and towards the support of the Government,<note place="margin">
@@ -332,7 +334,7 @@ is required, shall pay <hi>Ten Pounds</hi> fine: And every Officer or Souldier t
                <p>That all such Souldiers and Seamen that have been wounded in Their Majesties Service within this Province, and are thereby Maimed or o<g ref="char:EOLunhyphen"/>ther-wise disabled, and had yearly Pentions allowed them by the former Government for their releif,<note place="margin">
                      <hi>Pentioners.</hi>
                   </note> shall have the continuance of the same (during their abode in this Province) to be paid them out of the Publick Treasury. And all such Souldiers and Seamen as at any time hereafter shall be Maimed or other-wise disabled by any wound received in Their
-<pb n="30" facs="tcp:000651_0013_0FA99FBF2D166390"/>
+<pb n="30" facs="unknown:000651_0013_0FA99FBF2D166390"/>
 Majesties Service within this Province, shall be relieved out of the Publick Treasury, as this great and General Court shall order.</p>
                <p>
                   <hi>If</hi> any Souldier shall lose his Arms in Their Majesties Service not through his own neglect or default,<note place="margin">
@@ -371,7 +373,7 @@ Majesties Service within this Province, shall be relieved out of the Publick Tre
                   </gap>ers may be respectively given as well for payment of the part thereof belonging to the Province, as that belong<g ref="char:EOLhyphen"/>ing to the County, according to this Act.</p>
             </div>
             <div type="act">
-               <pb n="31" facs="tcp:000651_0014_0FA99FBFECB96AC8"/>
+               <pb n="31" facs="unknown:000651_0014_0FA99FBFECB96AC8"/>
                <head>AN ACT, For High-wayes.</head>
                <p>
                   <hi>FOR the better amending and keeping in repair and clear the <hi>High-wayes,</hi> and common Roads, leading from Town to Town and place to place; and for laying out new</hi> High-wayes, <hi>and turning old</hi> High-wayes <hi>where it shall be needful.</hi>
@@ -392,7 +394,7 @@ Majesties Service within this Province, shall be relieved out of the Publick Tre
                   </note> having respect to the Season of the year, and the Weather, and giving convenient Publick notice; at which dayes all persons liable to work (<hi>that is to say,</hi> from <hi>Sixteen</hi> years old and upward) by themselves or other sufficient Persons in their stead, shall attend : And if any Person make default of attending the said, work, by himself or other sufficient Person in his stead, or with his Cart and Teem, as he shall be appointed, upon comlaint and proof thereof before the next Justice of Peace (without reasonable Excuse made and allowed by such Justice) he shall cause to be levyed of every such offenders goods,<note place="margin">
                      <hi>Penalty non atten<g ref="char:EOLhyphen"/>dance.</hi>
                   </note>
-                  <pb n="32" facs="tcp:000651_0015_0FA99FC102E42878"/>
+                  <pb n="32" facs="unknown:000651_0015_0FA99FC102E42878"/>
 the Sum or Penalty of <hi>Two Shillings Six Pence</hi> for each dayes neglect of La<g ref="char:EOLhyphen"/>bour, besides the charge of making distress; and for default of their Cart, and Teem <hi>Six Shillings Per. diem,</hi> with charge of distress as aforesaid.</p>
                <p>
                   <hi>And further it is Enacted by the Authority aforesaid,</hi>
@@ -422,7 +424,7 @@ the Sum or Penalty of <hi>Two Shillings Six Pence</hi> for each dayes neglect of
                         <desc>〈1 paragraph〉</desc>
                      </gap>
                   </note> or continue any such to the Annoyance and Incumbrance of the same (other than such as shall be allowed by the Court of Quarter Sessions within the County)
-<pb n="33" facs="tcp:000651_0016_0FA99FC278969668"/>
+<pb n="33" facs="unknown:000651_0016_0FA99FC278969668"/>
 it shall be deemed a common <hi>Nusance,</hi> and it shall be lawful for any Person or Persons to pull down and remove the same: And if any such Incumbrance be in any particular or private way, allowed and set<g ref="char:EOLhyphen"/>led by any Town, upon complaint thereof made to the next Justice of the Peace, he shall appoint a Committee of two or more discreet and indifferent Persons to view such Incumbrance and cause the same to be removed: And if any Person be agrieved at the removal of any such Gate, Bars or Fence, he shall be heard at the Quarter Sessions within the same Coun<g ref="char:EOLhyphen"/>ty, and upon just cause shown, shall be by them relieved.</p>
                <p>
                   <hi>And be it further Enacted by the Authority aforesaid,</hi>
@@ -439,7 +441,7 @@ it shall be deemed a common <hi>Nusance,</hi> and it shall be lawful for any Per
                   <hi>No</hi> Person to be charged above a due proportion to the <hi>High-wayes</hi> either in labour or Teems.</p>
             </div>
             <div type="act">
-               <pb n="34" facs="tcp:000651_0017_0FA99FC2EC00D8C8"/>
+               <pb n="34" facs="unknown:000651_0017_0FA99FC2EC00D8C8"/>
                <head>AN ACT, For Regulating of Fences, Cattle &amp;c.</head>
                <p>
                   <hi>FOR the better preventing of damage in</hi> Corn fields, <hi>and other improved, and common Lands, by</hi> Horses, Neat Cattle, Sheep <hi>or</hi> Swine, <hi>going at large.</hi>
@@ -467,7 +469,7 @@ it shall be deemed a common <hi>Nusance,</hi> and it shall be lawful for any Per
                   <hi>And it is further Enacted by the Authority aforesaid,</hi>
                </p>
                <p>That no Persons other than Proprietors and Freeholders in any Town or peculiar, shall let any Horse or Horse-kind run to feed upon any com<g ref="char:EOLhyphen"/>mon
-<pb n="35" facs="tcp:000651_0018_0FA99FC3AD3A2000"/>
+<pb n="35" facs="unknown:000651_0018_0FA99FC3AD3A2000"/>
 Land belonging to such Town or peculiar, and every such Propri<g ref="char:EOLhyphen"/>etor and Freeholder may keep one Horse-beast upon the Common and no more, except such Proprietors and Freeholders every of whom have a ratable Estate within such Town or peculiar, of the value of <hi>Fifty Pounds,</hi> they to have the priviledge of two and no more.</p>
                <p>
                   <hi>And</hi> the owners of all Horse-kind going upon the Common are re<g ref="char:EOLhyphen"/>quired to cause the same to be entred with the Town Clerk,<note place="margin">
@@ -499,7 +501,7 @@ Land belonging to such Town or peculiar, and every such Propri<g ref="char:EOLhy
                <p>
                   <hi>And</hi> to the Pound keeper <hi>Two pence Per.</hi> head for all Neat Cattle or Horses, and <hi>one penny per.</hi> head for all Sheep or Swine, for taking in and letting out, to be paid by the owners of such Creatures.</p>
                <p>
-                  <pb n="36" facs="tcp:000651_0019_0FA99FC46D4C67B0"/>
+                  <pb n="36" facs="unknown:000651_0019_0FA99FC46D4C67B0"/>
                   <hi>And</hi> that for every Sheep in every Town going on the commons without being under the hands of a Shepard,<note place="margin">
                      <hi>Penalty for Sheep going on the com<g ref="char:EOLhyphen"/>mon without a keeper.</hi>
                   </note> from the first of <hi>May</hi> to the last of <hi>October</hi> in every year; the owners or keeper of the said Sheep shall pay the Sum of <hi>three pence</hi> for every Sheep at any time so found run<g ref="char:EOLhyphen"/>ning on the Common, not under the hand of a Shepard or keeper, be<g ref="char:EOLhyphen"/>twixt the first of <hi>May</hi> and last of <hi>October</hi> yearly.</p>
@@ -521,7 +523,7 @@ Land belonging to such Town or peculiar, and every such Propri<g ref="char:EOLhy
                            <desc>〈…〉</desc>
                         </gap>.</hi>
                   </note> requiring him to levv all such Arrears by distress and sale of such Constable or Collectors Estate, real or personal, returning the over plus (if any be) and if no Estate can be found, or not sufficient to discharge the same; then to commit him or them unto the Goal of the County,
-<pb n="37" facs="tcp:000651_0020_0FA99FC52CCEF668"/>
+<pb n="37" facs="unknown:000651_0020_0FA99FC52CCEF668"/>
 there to remain until he or they have paid and satisfyed such Arrears with charges; except any Constable or Collector, as the Treasurer, by order of the Governour and Council, shall be directed to forbear; either for the whole, or part, in order to his procuring an abatement: as this Act hath hereafter provided.</p>
                <p>
                   <hi>And</hi> the Treasurer is hereby Ordered out of the Arrears of the whole Assessments, whether on the late Colonies of the <hi>Massachusetts</hi> or <hi>Plimouth</hi>;<note place="margin">
@@ -556,7 +558,7 @@ there to remain until he or they have paid and satisfyed such Arrears with charg
                   <hi>Be it therefore Enacted,</hi>
                </p>
                <p>That the Treasurer forthwith Issue out new Warrants to such Towns
-<pb n="38" facs="tcp:000651_0021_0FA99FC5ED798A60"/>
+<pb n="38" facs="unknown:000651_0021_0FA99FC5ED798A60"/>
 and Places for such Sum or Sums the other were sent out for; which all Select men are forthwith to Assess, and Constables or Collectors to Collect by such Rules and under such penalties as by the Law relating to said Tax were made and injoyned.</p>
                <p>
                   <hi>
@@ -580,7 +582,7 @@ and Places for such Sum or Sums the other were sent out for; which all Select me
                <head>AN ACT For Bristol Fair.</head>
                <p>WHEREAS the <hi>General Court</hi> of the late Colony of <hi>New-Plimouth</hi> did in the year of Our Lord, <hi>One thousand six hundred</hi> &amp; <hi>eighty;</hi> Grant unto the Inbabitants of the Town of <hi>Bristol</hi> within said Colony, that they should have Li<g ref="char:EOLhyphen"/>berty of keeping two <hi>Fairs</hi> in said Town of <hi>Bristol</hi> Annually for ever, one upon the third <hi>Wednesday</hi> and <hi>Thursday</hi> in <hi>May,</hi> and the other upon the third <hi>Wednesday</hi> and <hi>Thursday</hi> in <hi>November</hi>; And it being found by Ex<g ref="char:EOLhyphen"/>perience that two days is not sufficient for the Transacting the business of said <hi>Fair;</hi> and that so late in <hi>November</hi> is inconvenient both with respect to Per<g ref="char:EOLhyphen"/>sons coming, it being many times very bad Weather, and the chief time for Selling fat <hi>Cattle</hi> being sooner.</p>
                <p>
-                  <pb n="39" facs="tcp:000651_0022_0FA99FC6B1AA33F0"/>
+                  <pb n="39" facs="unknown:000651_0022_0FA99FC6B1AA33F0"/>
                   <hi>Be it therefore Enacted by the Governour, Council, and Repre<g ref="char:EOLhyphen"/>sentatives Convened in Great and General Court, and it is hereby Enacted by the Authority of the same,</hi>
                </p>
                <p>
@@ -597,7 +599,7 @@ and Places for such Sum or Sums the other were sent out for; which all Select me
                <p>That if any Inn-keeper, Victualler, Seller of Wine or strong Li<g ref="char:EOLhyphen"/>quors, Shop-keeper or any other Person whatsoever, shall trust or give Credit to any Mariner or Seaman belonging to any Ship or other Ves<g ref="char:EOLhyphen"/>sel,<note place="margin">
                      <hi>No Mariner or Seaman to be arrested for any Debt made whilst he belongs to a Ship &amp;c.</hi>
                   </note> without the knowledge and allowance of the Master or Commander thereof; no Process or Attachment for any Debt so contracted without knowledge and allowance as aforesaid, shall be granted against or served upon such Mariner or Seaman, until he shall have performed the Voy<g ref="char:EOLhyphen"/>age he is then entred upon, and be discharged of the same: And every Process granted contrary hereunto, and serving thereof, shall be deemed and adjudged utterly void in Law: And any Justice of the Peace within the same County before whom it shall be made appear, that any Mariner or Seaman belonging to any Ship or Vessel is committed or
-<pb n="40" facs="tcp:000651_0023_0FA99FC770B60C08"/>
+<pb n="40" facs="unknown:000651_0023_0FA99FC770B60C08"/>
 restrained upon Process granted for any Debt or pretention of Debt made whilst such Mariner or Seaman<g ref="char:punc">▪</g> was engaged and actually entred and in pay on any Voyage, shall forthwith order his release.</p>
                <p>
                   <hi>And be it further Enacted by the Authority aforesaid,</hi>
@@ -620,7 +622,7 @@ restrained upon Process granted for any Debt or pretention of Debt made whilst s
             </div>
             <div type="act">
                <pb n="41"
-                   facs="tcp:000651_0024_0FA99FC82CE5BE70"
+                   facs="unknown:000651_0024_0FA99FC82CE5BE70"
                    rendition="simple:additions"/>
                <head>An Addition To the ACT for Establishing of Judicatories and Courts of Justice within this Province.</head>
                <p>
@@ -643,7 +645,7 @@ restrained upon Process granted for any Debt or pretention of Debt made whilst s
                   </note> and the case there to receive a final Issue and determination, any Law usage or custom to the contrary notwithstanding; Regard being had in the Tryal of the merit of any such case, to the Laws then in force within the said Colonies respectively.</p>
                <p>
                   <pb n="42"
-                      facs="tcp:000651_0025_0FA99FC8EFDFEF88"
+                      facs="unknown:000651_0025_0FA99FC8EFDFEF88"
                       rendition="simple:additions"/>
                   <hi>
                      <hi>And forasmuch</hi> as the dayes and times appointed by the afore-recited Act for the holding of the Court of Quarter Sessions of the Peace and Inferiour Court o<gap reason="illegible: indecipherable" extent="1 letter">
@@ -680,7 +682,7 @@ restrained upon Process granted for any Debt or pretention of Debt made whilst s
                   <hi>WHEREAS by an Act made and passed by this Court in the Year,</hi> One thousand six hundred ninety two, <hi>En<g ref="char:EOLhyphen"/>tituled,</hi> An Act for the Establishing of Judicatories and Courts of Justice within this Province, <hi>amongst other things therein conteined, <hi>It is Enacted</hi>,</hi> That there be a high Court of Chancery within this Province to be held and kept by the Governour or such other as he shall appoint to be Chancellor Assisted with Eight or more of the Council, at such times and places as the Governour or Chancellor for the time being shall from time to time appoint, with Power and Authority to hear and determin all matters of Equity <hi>&amp;c.</hi> as in and by the said Act doth appear. <hi>Which Court so constituted is by Experience found not agreeable with the Circumstances of this Province in divers respects, not then so well consi<g ref="char:EOLhyphen"/>dered or foreseen.</hi>
                </p>
                <p>
-                  <pb n="43" facs="tcp:000651_0026_0FA99FC9ACC9BE78"/>
+                  <pb n="43" facs="unknown:000651_0026_0FA99FC9ACC9BE78"/>
                   <hi>Be it therefore Declared and Enacted by His Excellency the Governour, Council and Representatives, in General Court Assembled, and by the Authority of the same,</hi>
                </p>
                <p>That the afore-recited Section or Paragraph in said Act and every Clause thereof so far as concerns or any wise relates unto the Consti<g ref="char:EOLhyphen"/>tution of said Court of Chancery be and hereby is repealed and made null and void to all intents and purposes as if the same had never been.<note place="margin">
@@ -715,7 +717,7 @@ and returnable in said Court, which shall be alwayes open; and shall sit for the
                   <hi>Provided</hi> nevertheless, That either party not resting satisfyed in the definitive Sentence, Judgment or Decree given in said Court, in any Per<g ref="char:EOLhyphen"/>sonal Action, and none other, where the matter in difference doth exceed the value of <hi>Three hundred Pounds Sterling,</hi> may appeal from such Sentence,<note place="margin">
                      <hi>Appeal.</hi>
                   </note>
-                  <pb n="44" facs="tcp:000651_0027_0FA99FCA6E409380"/>
+                  <pb n="44" facs="unknown:000651_0027_0FA99FCA6E409380"/>
 Judgment or Decree, unto Their Majesties in Council, such Appeal being made in time and Security given according to the directions in Their Ma<g ref="char:EOLhyphen"/>jesties Royal Charter in that behalf: As is Provided and Enacted for Judgments to be given as aforesaid, in other of Their Majesties Courts of Judicature within said Province.</p>
                <p>
                   <hi>Provided</hi> also any thing herein to the contrary contained notwith<g ref="char:EOLhyphen"/>standing,<note place="margin">
@@ -845,7 +847,7 @@ Judgment or Decree, unto Their Majesties in Council, such Appeal being made in t
                </p>
             </div>
             <div type="act">
-               <pb n="45" facs="tcp:000651_0028_0FA99FCB2B323E28"/>
+               <pb n="45" facs="unknown:000651_0028_0FA99FCB2B323E28"/>
                <head>AN ACT, For a present supply of the Treasury.</head>
                <p>
                   <hi>WHEREAS by report of the Treasurer of the Province, It has been made appear to this Court, that there is wanting a present supply of</hi> Money <hi>for payment for Provisions already taken up, and procuring further Stores thereof, and Cloathing <gap reason="illegible: indecipherable" extent="1 span">
@@ -861,7 +863,7 @@ Judgment or Decree, unto Their Majesties in Council, such Appeal being made in t
                <p>That for the end aforesaid and no other, a certain number of the Bills of Publick Credit of the late Colony of the <hi>Massachusetts,</hi> to the Sum of <hi>Fifteen Hundred Pounds</hi> and no more, be by the present Trea<g ref="char:EOLhyphen"/>surer issued and paid out of the Treasury, according to the Orders of the Governour and Council; <hi>Five hundred</hi> Pounds thereof forthwith to be improved for the building and fitting of such a <hi>Vessel</hi> as is aforesaid, as the Governour and Council shall give Directions: which number of Bills to the Sum of <hi>Fifteen hundred Pounds</hi> as aforesaid, shall be signed by the Treasurer of the Province, at their going out, in this manner: <hi>James Taylor, Treasurer of the Province of the Massachusetts Bay:</hi> And shall pass out of and be returned into the Treasury again at the Sum or Value therein expressed and set down, and no more: The Treasurer to keep an exact Accompt of the number and Sum of each Bill which he shall so sign and deliver out: And the Province shall be and hereby is engaged to anwer and make good the Value or Sum of all such Bills so signed and given out as shall be in the hands of particular Persons, in currant Silver Money of this Province.</p>
             </div>
             <div type="act">
-               <pb n="46" facs="tcp:000651_0029_0FA99FCBEB921550"/>
+               <pb n="46" facs="unknown:000651_0029_0FA99FCBEB921550"/>
                <head>AN ACT, To prevent default of appearance of Representatives to Serve in the General Assembly.</head>
                <p>WHEREAS there has been a Neglect in some <hi>Sheriffs,</hi> in Ob<g ref="char:EOLhyphen"/>servance of Their Majesties Writt to them directed, for the Convening and holding of a great and General Court or Assem<g ref="char:EOLhyphen"/>bly, timely to issue forth their Precepts unto the several Towns within their <hi>Bailiwick</hi> or <hi>Precinct,</hi> for the choosing of <hi>Representatives</hi> to serve in the great and General Court or Assembly, and have also not taken due care to have Returns of their said Precepts. And forasmuch as many Persons Elected for <hi>Representatives,</hi> and having Summons, are not careful to give their attendance accordingly, in due time, whereby the Publick Affayres for Their Majesties Service are prejudiced.</p>
                <p>For Remedy whereof.</p>
@@ -884,7 +886,7 @@ Judgment or Decree, unto Their Majesties in Council, such Appeal being made in t
                </p>
                <p>
                   <hi>And</hi> the Select men of each Town upon Receipt of the Sheriffs Precept, shall cause the Freeholders and other Inhabitants of said Town duely qualified as in the said Precept is mentioned, to be Assembled and meet at such time and place as the Select men or the major part of them shall appoint, to Elect and depute one or more <hi>Representatives</hi> for such
-<pb n="47" facs="tcp:000651_0030_0FA99FCCACFC72F0"/>
+<pb n="47" facs="unknown:000651_0030_0FA99FCCACFC72F0"/>
 Town as by Law they may, and shall cause the Person or Persons so E<g ref="char:EOLhyphen"/>lected and deputed by the major part of the Electors present at such meeting, to be timely notified and Summoned by one or more of the Constables of said Town, to attend Their Majesties Service in the great and General Court or Assembly, upon the day and at the time and place appointed for holding of the same: And the Select men or the major part of them shall make Return of such Election under their hands upon the said Precept, or annexed thereto, in manner and form as by Law is Prescribed; and cause the same to be de<g ref="char:EOLhyphen"/>livered unto the Sheriff of the County at or before the day therein perfixed for Return of the same;<note place="margin">
                      <hi>Penalty on Sheriff's for neglect of duty.</hi>
                   </note> on pain that every Sheriff neglecting his duty in any of the particulars before mentioned, shall forfeit and pay the Sum of <hi>Fifty Pounds.</hi>
@@ -926,7 +928,7 @@ Town as by Law they may, and shall cause the Person or Persons so E<g ref="char:
                <p>
                   <hi>All</hi> Persons shall put in their Votes unfolded to the Select men or Constables appointed to receive the same.</p>
                <p>
-                  <pb n="48" facs="tcp:000651_0031_0FA99FCE8195C300"/>
+                  <pb n="48" facs="unknown:000651_0031_0FA99FCE8195C300"/>
                   <hi>And</hi> that where any Person offering to give in his Votes for Representatives in any Town, shall be questioned by the Select men of the said Town as to his being capable by Charter to Vote;<note place="margin">
                      <hi>Voters questi<g ref="char:EOLhyphen"/>oned to make Oath.</hi>
                   </note> the said Per<g ref="char:EOLhyphen"/>son or Persons giving his or their Oath that they are <hi>Bona fide,</hi> worth <hi>Fourty Pounds Sterling,</hi> or an Estate of Freehold to the value of <hi>Fourty Shillings Per. Annum,</hi> before a Justice of the Peace, or in the absence of a Justice of the Peace, before the Town Clerk, who is hereby impowred to Administer the same, he or they shall be accounted capable of Voting and put in his or their Votes accordingly.</p>
